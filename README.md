@@ -442,11 +442,6 @@ Microsoft-Landing-Page/
 
 ---
 
-# ⭐ Conclusion
-
-This project successfully recreates the Microsoft Homepage using **HTML5**, **CSS3**, and **Remix Icons** while demonstrating modern front-end development practices, responsive layouts, structured components, and clean UI design.
-
-
 
 
 
